@@ -1,1 +1,1 @@
-print "wesh alors ca dit auoi?"
+print "Comment vas tu?"
